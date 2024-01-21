@@ -1,19 +1,20 @@
-# Auto Desenho de Rostos no Paint com Python
+# Desenhe rostos automaticamente no Paint com este script em Python usando PyAutoGUI
 
-Crie rostos automaticamente no Paint com este script Python usando PyAutoGUI. Cada rosto é formado por olhos, nariz e boca, proporcionando uma arte simples e divertida. Basta seguir as instruções abaixo e comece a expressar sua criatividade!
+Este script em Python utiliza a biblioteca PyAutoGUI para desenhar rostos automaticamente no Paint. Cada rosto é composto por olhos, nariz e boca, resultando em arte simples e divertida!
 
-## Como Usar:
+Assista ao vídeo de apresentação [aqui](./videos/21-01-2024.mkv).
 
-1. **Instalação:**
-   Certifique-se de ter o PyAutoGUI instalado no Python.
-   ```bash
-   pip install pyautogui
-Execução:
-Execute o script antes de abrir o Paint.
+## Como usar:
+1. Certifique-se de ter o PyAutoGUI instalado no Python. Caso não tenha, você pode instalá-lo usando o seguinte comando:
+    ```bash
+    pip install pyautogui
+    ```
+2. Rode o script antes de abrir o Paint. Isso garantirá que os rostos sejam desenhados corretamente na tela.
+3. Aprecie os rostos aparecendo na tela enquanto o script executa suas ações automaticamente!
 
-python auto_desenho_rostos.py
-Divirta-se:
-Aprecie os rostos aparecendo automaticamente na tela do Paint!
+Divirta-se deixando a sua marca visual!
 
-Autor:
-Lucas Labatut
+## Autor
+
+- Nome: Lucas Labatut
+- GitHub: https://github.com/DevLabatut
