@@ -10,6 +10,7 @@ Assista ao vídeo de apresentação [aqui](./videos/21-01-2024.mkv).
     pip install pyautogui
     ```
 2. Rode o script antes de abrir o Paint. Isso garantirá que os rostos sejam desenhados corretamente na tela.
+
 3. Aprecie os rostos aparecendo na tela enquanto o script executa suas ações automaticamente!
 
 Divirta-se deixando a sua marca visual!
