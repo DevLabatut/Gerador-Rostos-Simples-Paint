@@ -2,7 +2,7 @@
 
 Este script em Python utiliza a biblioteca PyAutoGUI para desenhar rostos automaticamente no Paint. Cada rosto é composto por olhos, nariz e boca, resultando em arte simples e divertida!
 
-Assista ao vídeo de apresentação [aqui](./videos/21-01-2024.mkv).
+Assista ao vídeo de apresentação [aqui](/Vídeo/21-01-2024.mkv).
 
 ## Como usar:
 1. Certifique-se de ter o PyAutoGUI instalado no Python. Caso não tenha, você pode instalá-lo usando o seguinte comando:
