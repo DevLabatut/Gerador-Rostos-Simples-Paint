@@ -16,4 +16,4 @@ Este script em Python utiliza a biblioteca PyAutoGUI para desenhar rostos automa
 ## Autor
 
 - Nome: Lucas Labatut
-- GitHub: (https://github.com/DevLabatut)
+- GitHub: https://github.com/DevLabatut
